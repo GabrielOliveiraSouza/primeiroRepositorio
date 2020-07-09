@@ -3,5 +3,10 @@ git status - vizualiza as pastas, se estão preparadas ou não
 git add- seleciona quais arquivos serão salvos
 git diff - ve a diferença entre o atual e o do git
 
-
+branch - Cria uma nova vertente do código
+marge - linka o branch com o master 
+ 
 UMA COISA ALEATORIA PARA TESTE
+
+sudo xrandr --newmode "1280x720_60.00"   74.50  1280 1344 1472 1664  720 723 728 748 -hsync +vsync
+sudo xrandr --addmode DP-2 "1280x720_60.00"
