@@ -2,3 +2,6 @@ git init - cria um repositorio
 git status - vizualiza as pastas, se estão preparadas ou não
 git add- seleciona quais arquivos serão salvos
 git diff - ve a diferença entre o atual e o do git
+
+
+UMA COISA ALEATORIA PARA TESTE
